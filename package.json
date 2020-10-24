@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ryancdavey1/node-weather-app#readme",
   "dependencies": {
+    "express": "^4.16.4",
     "postman-request": "^2.88.1-postman.23",
     "request": "^2.88.2"
   }
